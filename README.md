@@ -1,2 +1,2 @@
-# hackerrank programs
+# hackerrank program
  
